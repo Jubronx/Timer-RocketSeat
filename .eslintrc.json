@@ -1,0 +1,6 @@
+{
+    "extends" : "@rockseat/eslint-config/react",
+   "rules":{
+    "no-unused-vars":"off"
+   }
+}
